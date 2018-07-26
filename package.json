@@ -1,0 +1,21 @@
+{
+  "name": "3dwayfinder",
+  "version": "1.0.0",
+  "description": "Minified libraries for 3D Wayfinder project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wayfinder",
+    "3d",
+    "interactive",
+    "floorplan"
+  ],
+  "author": "3D Wayfinder",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-download-stream": "latest"
+  }
+}
